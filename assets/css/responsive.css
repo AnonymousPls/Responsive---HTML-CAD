@@ -156,4 +156,27 @@
     left: 100px;
     top: 110px;
   }
+  /* Text nhỏ lại */
+  .section-heading {
+    font-size: 2rem;
+  }
+  .section-desc,
+  p {
+    font-size: 1.2rem;
+  }
+  ol {
+    font-size: 1.2rem;
+    margin: 0 0 0 10px;
+  }
+  strong {
+    font-size: 1.5rem;
+  }
+  /* Image cho ra giữa */
+  .lesson-bottom__img {
+    width: 570px;
+    border-radius: 12px;
+    object-fit: cover;
+    margin: 20px 0;
+    width: 100%;
+  }
 }
